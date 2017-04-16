@@ -1,0 +1,440 @@
+tschussi@Tschussi-N550JK:~/workspaceC/nw_lab1/obj$ ./lab1 r
+
+
+ ========= LAYER 1 TO EARTHLING: ===============
+Debug status: ON
+Attempting to RECEIVE ...
+'r' mode: Waiting to receive ...
+'r' mode: recvd frame from < 127.0.0.1 >
+'r' mode: frame length : 120 bytes 
+'r' mode: recvd frame contents -  (Raw Character Buffer)
+12000000000000000000000000000000000000000000000000000000THE TYGER  by William Blake (1757-1827).
+
+Tyger, tyger, burn89
+ ========= LAYER 1 FINISHED PROCESSING ==========
+
+
+ ========= LAYER 1 TO EARTHLING: ===============
+Debug status: ON
+Attempting to RECEIVE ...
+'r' mode: Waiting to receive ...
+'r' mode: recvd frame from < 127.0.0.1 >
+'r' mode: frame length : 123 bytes 
+'r' mode: recvd frame contents -  (Raw Character Buffer)
+12301000000000000000000000000000000000000000000000000000ing bright
+In the forests of the night,
+What immortal han94
+ ========= LAYER 1 FINISHED PROCESSING ==========
+
+
+ ========= LAYER 1 TO EARTHLING: ===============
+Debug status: ON
+Attempting to RECEIVE ...
+'r' mode: Waiting to receive ...
+'r' mode: recvd frame from < 127.0.0.1 >
+'r' mode: frame length : 121 bytes 
+'r' mode: recvd frame contents -  (Raw Character Buffer)
+12102000000000000000000000000000000000000000000000000000d or eye
+Could frame thy fearful symmetry?
+
+In what distant98
+ ========= LAYER 1 FINISHED PROCESSING ==========
+
+
+ ========= LAYER 1 TO EARTHLING: ===============
+Debug status: ON
+Attempting to RECEIVE ...
+'r' mode: Waiting to receive ...
+'r' mode: recvd frame from < 127.0.0.1 >
+'r' mode: frame length : 121 bytes 
+'r' mode: recvd frame contents -  (Raw Character Buffer)
+12103000000000000000000000000000000000000000000000000000 deeps or skies
+Burnt the fire of thine eyes?
+On what wings55
+ ========= LAYER 1 FINISHED PROCESSING ==========
+
+
+ ========= LAYER 1 TO EARTHLING: ===============
+Debug status: ON
+Attempting to RECEIVE ...
+'r' mode: Waiting to receive ...
+'r' mode: recvd frame from < 127.0.0.1 >
+'r' mode: frame length : 120 bytes 
+'r' mode: recvd frame contents -  (Raw Character Buffer)
+12004000000000000000000000000000000000000000000000000000 dare he aspire?
+What the hand dare seize the fire?
+
+And wha58
+ ========= LAYER 1 FINISHED PROCESSING ==========
+
+
+ ========= LAYER 1 TO EARTHLING: ===============
+Debug status: ON
+Attempting to RECEIVE ...
+'r' mode: Waiting to receive ...
+'r' mode: recvd frame from < 127.0.0.1 >
+'r' mode: frame length : 120 bytes 
+'r' mode: recvd frame contents -  (Raw Character Buffer)
+12005000000000000000000000000000000000000000000000000000t shoulder and what art
+Could twist the sinews of thy heart?19
+ ========= LAYER 1 FINISHED PROCESSING ==========
+
+
+ ========= LAYER 1 TO EARTHLING: ===============
+Debug status: ON
+Attempting to RECEIVE ...
+'r' mode: Waiting to receive ...
+'r' mode: recvd frame from < 127.0.0.1 >
+'r' mode: frame length : 120 bytes 
+'r' mode: recvd frame contents -  (Raw Character Buffer)
+12006000000000000000000000000000000000000000000000000000
+And when thy heart began to beat,
+What dread hand and what 74
+ ========= LAYER 1 FINISHED PROCESSING ==========
+
+
+ ========= LAYER 1 TO EARTHLING: ===============
+Debug status: ON
+Attempting to RECEIVE ...
+'r' mode: Waiting to receive ...
+'r' mode: recvd frame from < 127.0.0.1 >
+'r' mode: frame length : 120 bytes 
+'r' mode: recvd frame contents -  (Raw Character Buffer)
+12007000000000000000000000000000000000000000000000000000dread feet?
+
+What the hammer? what the chain?
+In what furnac86
+ ========= LAYER 1 FINISHED PROCESSING ==========
+
+
+ ========= LAYER 1 TO EARTHLING: ===============
+Debug status: ON
+Attempting to RECEIVE ...
+'r' mode: Waiting to receive ...
+'r' mode: recvd frame from < 127.0.0.1 >
+'r' mode: frame length : 120 bytes 
+'r' mode: recvd frame contents -  (Raw Character Buffer)
+12008000000000000000000000000000000000000000000000000000e was thy brain?
+What the anvil? What dread grasp
+Dare its d90
+ ========= LAYER 1 FINISHED PROCESSING ==========
+
+
+ ========= LAYER 1 TO EARTHLING: ===============
+Debug status: ON
+Attempting to RECEIVE ...
+'r' mode: Waiting to receive ...
+'r' mode: recvd frame from < 127.0.0.1 >
+'r' mode: frame length : 120 bytes 
+'r' mode: recvd frame contents -  (Raw Character Buffer)
+12009000000000000000000000000000000000000000000000000000eadly terrors clasp?
+
+When the stars threw down their spears25
+ ========= LAYER 1 FINISHED PROCESSING ==========
+
+
+ ========= LAYER 1 TO EARTHLING: ===============
+Debug status: ON
+Attempting to RECEIVE ...
+'r' mode: Waiting to receive ...
+'r' mode: recvd frame from < 127.0.0.1 >
+'r' mode: frame length : 122 bytes 
+'r' mode: recvd frame contents -  (Raw Character Buffer)
+12200000000000000000000000000000000000000000000000000000,
+And water'd heaven with their tears,
+Did He smile His wo56
+ ========= LAYER 1 FINISHED PROCESSING ==========
+
+
+ ========= LAYER 1 TO EARTHLING: ===============
+Debug status: ON
+Attempting to RECEIVE ...
+'r' mode: Waiting to receive ...
+'r' mode: recvd frame from < 127.0.0.1 >
+'r' mode: frame length : 120 bytes 
+'r' mode: recvd frame contents -  (Raw Character Buffer)
+12001000000000000000000000000000000000000000000000000000rk to see?
+Did He who made the lamb make thee?
+
+Tyger, tyger91
+ ========= LAYER 1 FINISHED PROCESSING ==========
+
+
+ ========= LAYER 1 TO EARTHLING: ===============
+Debug status: ON
+Attempting to RECEIVE ...
+'r' mode: Waiting to receive ...
+'r' mode: recvd frame from < 127.0.0.1 >
+'r' mode: frame length : 120 bytes 
+'r' mode: recvd frame contents -  (Raw Character Buffer)
+12002000000000000000000000000000000000000000000000000000, burning bright	
+In the forests of the night,
+What immortal71
+ ========= LAYER 1 FINISHED PROCESSING ==========
+
+
+ ========= LAYER 1 TO EARTHLING: ===============
+Debug status: ON
+Attempting to RECEIVE ...
+'r' mode: Waiting to receive ...
+'r' mode: recvd frame from < 127.0.0.1 >
+'r' mode: frame length : 106 bytes 
+'r' mode: recvd frame contents -  (Raw Character Buffer)
+10603100000000000000000000000000000000000000000000000000 hand or eye
+Dare frame thy fearful symmetry?
+06
+ ========= LAYER 1 FINISHED PROCESSING ==========
+
+Post Layer 1 Receive Function Test
+Frame 0: 12000000000000000000000000000000000000000000000000000000THE TYGER  by William Blake (1757-1827).
+
+Tyger, tyger, burn89
+Frame 1: 12301000000000000000000000000000000000000000000000000000ing bright
+In the forests of the night,
+What immortal han94
+Frame 2: 12102000000000000000000000000000000000000000000000000000d or eye
+Could frame thy fearful symmetry?
+
+In what distant98
+Frame 3: 12103000000000000000000000000000000000000000000000000000 deeps or skies
+Burnt the fire of thine eyes?
+On what wings55
+Frame 4: 12004000000000000000000000000000000000000000000000000000 dare he aspire?
+What the hand dare seize the fire?
+
+And wha58
+Frame 5: 12005000000000000000000000000000000000000000000000000000t shoulder and what art
+Could twist the sinews of thy heart?19
+Frame 6: 12006000000000000000000000000000000000000000000000000000
+And when thy heart began to beat,
+What dread hand and what 74
+Frame 7: 12007000000000000000000000000000000000000000000000000000dread feet?
+
+What the hammer? what the chain?
+In what furnac86
+Frame 8: 12008000000000000000000000000000000000000000000000000000e was thy brain?
+What the anvil? What dread grasp
+Dare its d90
+Frame 9: 12009000000000000000000000000000000000000000000000000000eadly terrors clasp?
+
+When the stars threw down their spears25
+Frame 10: 12200000000000000000000000000000000000000000000000000000,
+And water'd heaven with their tears,
+Did He smile His wo56
+Frame 11: 12001000000000000000000000000000000000000000000000000000rk to see?
+Did He who made the lamb make thee?
+
+Tyger, tyger91
+Frame 12: 12002000000000000000000000000000000000000000000000000000, burning bright	
+In the forests of the night,
+What immortal71
+Frame 13: 10603100000000000000000000000000000000000000000000000000 hand or eye
+Dare frame thy fearful symmetry?
+06
+Pre Layer 2 Receive Function Test
+Frame 0: 12000000000000000000000000000000000000000000000000000000THE TYGER  by William Blake (1757-1827).
+
+Tyger, tyger, burn89
+Frame 1: 12301000000000000000000000000000000000000000000000000000ing bright
+In the forests of the night,
+What immortal han94
+Frame 2: 12102000000000000000000000000000000000000000000000000000d or eye
+Could frame thy fearful symmetry?
+
+In what distant98
+Frame 3: 12103000000000000000000000000000000000000000000000000000 deeps or skies
+Burnt the fire of thine eyes?
+On what wings55
+Frame 4: 12004000000000000000000000000000000000000000000000000000 dare he aspire?
+What the hand dare seize the fire?
+
+And wha58
+Frame 5: 12005000000000000000000000000000000000000000000000000000t shoulder and what art
+Could twist the sinews of thy heart?19
+Frame 6: 12006000000000000000000000000000000000000000000000000000
+And when thy heart began to beat,
+What dread hand and what 74
+Frame 7: 12007000000000000000000000000000000000000000000000000000dread feet?
+
+What the hammer? what the chain?
+In what furnac86
+Frame 8: 12008000000000000000000000000000000000000000000000000000e was thy brain?
+What the anvil? What dread grasp
+Dare its d90
+Frame 9: 12009000000000000000000000000000000000000000000000000000eadly terrors clasp?
+
+When the stars threw down their spears25
+Frame 10: 12200000000000000000000000000000000000000000000000000000,
+And water'd heaven with their tears,
+Did He smile His wo56
+Frame 11: 12001000000000000000000000000000000000000000000000000000rk to see?
+Did He who made the lamb make thee?
+
+Tyger, tyger91
+Frame 12: 12002000000000000000000000000000000000000000000000000000, burning bright	
+In the forests of the night,
+What immortal71
+Frame 13: 10603100000000000000000000000000000000000000000000000000 hand or eye
+Dare frame thy fearful symmetry?
+06
+
+ Post Layer 2 Receive Function Test
+Frame: 0: 0000000000000000000000000000000000000000THE TYGER  by William Blake (1757-1827).
+
+Tyger, tyger, burn
+Frame: 1: 0000000000000000000000000000000000000000ing bright
+In the forests of the night,
+What immortal han
+Frame: 2: 0000000000000000000000000000000000000000d or eye
+Could frame thy fearful symmetry?
+
+In what distant
+Frame: 3: 0000000000000000000000000000000000000000 deeps or skies
+Burnt the fire of thine eyes?
+On what wings
+Frame: 4: 0000000000000000000000000000000000000000 dare he aspire?
+What the hand dare seize the fire?
+
+And wha
+Frame: 5: 0000000000000000000000000000000000000000t shoulder and what art
+Could twist the sinews of thy heart?
+Frame: 6: 0000000000000000000000000000000000000000
+And when thy heart began to beat,
+What dread hand and what 
+Frame: 7: 0000000000000000000000000000000000000000dread feet?
+
+What the hammer? what the chain?
+In what furnac
+Frame: 8: 0000000000000000000000000000000000000000e was thy brain?
+What the anvil? What dread grasp
+Dare its d
+Frame: 9: 0000000000000000000000000000000000000000eadly terrors clasp?
+
+When the stars threw down their spears
+Frame: 10: 0000000000000000000000000000000000000000,
+And water'd heaven with their tears,
+Did He smile His wo
+Frame: 11: 0000000000000000000000000000000000000000rk to see?
+Did He who made the lamb make thee?
+
+Tyger, tyger
+Frame: 12: 0000000000000000000000000000000000000000, burning bright	
+In the forests of the night,
+What immortal
+Frame: 13: 0000000000000000000000000000000000000000 hand or eye
+Dare frame thy fearful symmetry?
+
+Pre Layer 3 Receive Function Test
+Frame 0: 0000000000000000000000000000000000000000THE TYGER  by William Blake (1757-1827).
+
+Tyger, tyger, burn
+Frame 1: 0000000000000000000000000000000000000000ing bright
+In the forests of the night,
+What immortal han
+Frame 2: 0000000000000000000000000000000000000000d or eye
+Could frame thy fearful symmetry?
+
+In what distant
+Frame 3: 0000000000000000000000000000000000000000 deeps or skies
+Burnt the fire of thine eyes?
+On what wings
+Frame 4: 0000000000000000000000000000000000000000 dare he aspire?
+What the hand dare seize the fire?
+
+And wha
+Frame 5: 0000000000000000000000000000000000000000t shoulder and what art
+Could twist the sinews of thy heart?
+Frame 6: 0000000000000000000000000000000000000000
+And when thy heart began to beat,
+What dread hand and what 
+Frame 7: 0000000000000000000000000000000000000000dread feet?
+
+What the hammer? what the chain?
+In what furnac
+Frame 8: 0000000000000000000000000000000000000000e was thy brain?
+What the anvil? What dread grasp
+Dare its d
+Frame 9: 0000000000000000000000000000000000000000eadly terrors clasp?
+
+When the stars threw down their spears
+Frame 10: 0000000000000000000000000000000000000000,
+And water'd heaven with their tears,
+Did He smile His wo
+Frame 11: 0000000000000000000000000000000000000000rk to see?
+Did He who made the lamb make thee?
+
+Tyger, tyger
+Frame 12: 0000000000000000000000000000000000000000, burning bright	
+In the forests of the night,
+What immortal
+Frame 13: 0000000000000000000000000000000000000000 hand or eye
+Dare frame thy fearful symmetry?
+
+Post Layer 3 Receive Function Test
+THE TYGER  by William Blake (1757-1827).
+
+Tyger, tyger, burning bright
+In the forests of the night,
+What immortal hand or eye
+Could frame thy fearful symmetry?
+
+In what distant deeps or skies
+Burnt the fire of thine eyes?
+On what wings dare he aspire?
+What the hand dare seize the fire?
+
+And what shoulder and what art
+Could twist the sinews of thy heart?
+And when thy heart began to beat,
+What dread hand and what dread feet?
+
+What the hammer? what the chain?
+In what furnace was thy brain?
+What the anvil? What dread grasp
+Dare its deadly terrors clasp?
+
+When the stars threw down their spears,
+And water'd heaven with their tears,
+Did He smile His work to see?
+Did He who made the lamb make thee?
+
+Tyger, tyger, burning bright	
+In the forests of the night,
+What immortal hand or eye
+Dare frame thy fearful symmetry?
+
+Pre Layer 4 Receive Function Test
+THE TYGER  by William Blake (1757-1827).
+
+Tyger, tyger, burning bright
+In the forests of the night,
+What immortal hand or eye
+Could frame thy fearful symmetry?
+
+In what distant deeps or skies
+Burnt the fire of thine eyes?
+On what wings dare he aspire?
+What the hand dare seize the fire?
+
+And what shoulder and what art
+Could twist the sinews of thy heart?
+And when thy heart began to beat,
+What dread hand and what dread feet?
+
+What the hammer? what the chain?
+In what furnace was thy brain?
+What the anvil? What dread grasp
+Dare its deadly terrors clasp?
+
+When the stars threw down their spears,
+And water'd heaven with their tears,
+Did He smile His work to see?
+Did He who made the lamb make thee?
+
+Tyger, tyger, burning bright	
+In the forests of the night,
+What immortal hand or eye
+Dare frame thy fearful symmetry?
+
+Post Layer 4 Receive Function Test (check recfile.txt)
+
