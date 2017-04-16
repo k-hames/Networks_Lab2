@@ -12,4 +12,6 @@ Additions to lab 1:
   
   Layer 3: Splits the data into frames with a hdr and payload (hdr representing the IP address of destination)
   
-  Layer 4: Reads data from a txt file and stores in a buffer for future use
+  Layer 4: Reads data from a txt file (sendfile.txt) and stores in a buffer for future use / Writes data to recfile.txt
+  
+  transmit_terminal.txt & receive_terminal.txt are example outputs of the process (debugging statements at each layer) for examination purposes.
