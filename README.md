@@ -5,7 +5,11 @@ Additions to lab 1:
   Added CheckSum & Bit Stuffing to Layer 2 
   
   Layer Breakdown
+  
   Layer 1: transmits or receives data packets between two nodes (given by professor)
+  
   Layer 2: Attactches layer 2 hdr and trl providing a wide range of information to each frame
+  
   Layer 3: Splits the data into frames with a hdr and payload (hdr representing the IP address of destination)
+  
   Layer 4: Reads data from a txt file and stores in a buffer for future use
